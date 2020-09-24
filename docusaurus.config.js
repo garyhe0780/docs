@@ -9,9 +9,9 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'DueDEX',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'DueDEX Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -76,7 +76,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DueDEX, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
